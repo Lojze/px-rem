@@ -91,7 +91,9 @@ top_div.style.height='0';
 > * 建议：全局使用 box-sizing: border-box，有些移动浏览器对rem不友好
 
 
-[原文地址说明文档](http://www.520ued.com/article/study-px-rem-tools)
-[原文工具地址](http://520ued.com/tools/rem)
+[原文地址说明文档](http://www.520ued.com/article/study-px-rem-tools)  
+
+[原文工具地址](http://520ued.com/tools/rem)  
+
 该网址对我这种小白启发特别的大，非常感谢该作者，分享精神
 
