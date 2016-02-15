@@ -77,10 +77,14 @@ top_div.style.height='0';
 > * [【原文】在线转换说明](http://www.520ued.com/article/study-px-rem-tools)
 
 ### 操作流程 
-1.写好的css文件放入->[放入在线转换中](http://520ued.com/tools/rem)
-2.服务器只会保存1分钟，自动销毁
-3.点击download
-4.直接替换原来的css文件就可以了
+1.写好的css文件放入->[放入在线转换中](http://520ued.com/tools/rem)  
+
+2.服务器只会保存1分钟，自动销毁  
+
+3.点击download  
+
+4.直接替换原来的css文件就可以了  
+
 5.因为是动态的计算网页，所以，在任何手机上都可以试用的  
 
 
