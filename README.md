@@ -1,5 +1,4 @@
 # 在线px转换成rem
-----
 正常按照psd的尺寸写，切图的时候直接用px，然后页面切完后，将样式丢到工具中进行转换，秒秒中就能把样式中所有px单位转成rem。
 
 # 使用方法
@@ -18,7 +17,7 @@
     doc.addEventListener('DOMContentLoaded', recalc, false);
     })(document, window);
 ```
----
+
 动态的计算显示器的宽度，存在一个移动端在pc端打开显示100%的问题，后来把js稍微修改了一下，最大宽度640px，居中显示
 ```javascript
 // JavaScript Document
